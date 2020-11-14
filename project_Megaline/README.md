@@ -12,10 +12,10 @@
 
 ## Навыки и инструменты
 
-- Python
-- Pandas 
-- Matplotlib
-- NumPy
-- SciPy
-- описательная статистика
+- Python,
+- Pandas ,
+- Matplotlib,
+- NumPy,
+- SciPy,
+- описательная статистика,
 - проверка статистических гипотез
